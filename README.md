@@ -17,7 +17,7 @@ Just download the files and open index.html on any browser. All the magic happen
 
 ## Authors
 
-Alex Karvounis - al3xkarv
+Alex Karvounis - [al3xkarv](https://github.com/al3xkarv)
 
 ## License
 
