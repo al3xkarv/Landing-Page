@@ -1,6 +1,6 @@
 # Landing Page Project
 
-This is Project 2 for Udacity's Front-End Nanodegree program.
+This is Project 2 for Udacity's Front-End Nanodegree program. The Navigation Bar is created dynamically and an effect is added on the article that is currently on viewport.
 
 ## Table of Contents
 
@@ -10,4 +10,17 @@ This is Project 2 for Udacity's Front-End Nanodegree program.
 
 ## Instructions
 
-Just download the files and open index.html on a browser. All the magic happens inside app.js, if you want to check the code be sure to do with an editor.
+Just download the files and open index.html on any browser. All the magic happens inside app.js, if you want to check the code be sure to do so with an editor.
+
+## Homepage<br/>
+![Screenshot of Homepage](img/screenshot.png)
+
+## Authors
+
+Alex Karvounis - al3xkarv
+
+## License
+
+This project is licensed under the GNU General Public License v3.0
+
+
