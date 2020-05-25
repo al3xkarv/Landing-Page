@@ -1,6 +1,6 @@
 # Landing Page Project
 
-This is Project 2 for Udacity's Front-End Nanodegree program. The Navigation Bar is created dynamically and an effect is added on the article that is currently on viewport.
+This is Project 2 for Udacity's Front-End Nanodegree program. The Navigation Bar is created dynamically and an effect is added on the article that is currently on viewport. Live [here](http://users.uoa.gr/~sdi1700298/Landing%20Page/)
 
 ## Table of Contents
 
